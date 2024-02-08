@@ -1,0 +1,5 @@
+git add .
+Si tienes.idea = .gitignore:
+	y ponemos:**/.idea/**
+git commit -m "primer comit"
+git push
